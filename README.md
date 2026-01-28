@@ -49,4 +49,4 @@ Repo: https://github.com/AkshayaRediee/ASE
 ---
 
 ### 🗺️ What’s next
-I’m actively looking to contribute to data/analytics or platform teams—if you’re hiring or open to collaboration, I’d love to chat.
+I’m actively looking to contribute to data/analytics or platform teams if you’re hiring or open to collaboration, I’d love to chat.
