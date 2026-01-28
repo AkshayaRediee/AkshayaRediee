@@ -4,9 +4,9 @@
 I turn messy data into clear insights and production-ready tools. I enjoy building clean pipelines, visualizing what matters, and shipping small web apps that make analysis easier.
 
 - 🎓 M.S. in Computer Science (Dec 2025)
-- 💼 Previously: hands‑on with Git and AWS in data projects
-- 🔭 Current focus: analytics engineering, ML for decision support, and lightweight data apps
-- 🌱 Learning: better testing for data/ML, CI/CD on GitHub Actions, and cloud‑native analytics
+- 💼 Previously: Hands‑on with Git and AWS in data projects
+- 🔭 Current focus: Analytics Engineering, ML for Decision Support, and Lightweight Data Apps
+- 🌱 Learning: Better Testing for Data/ML, CI/CD on GitHub Actions, and Cloud‑native Analytics
 - 📍 US-based | Open to **Data Analyst, BI, or Software Engineer** roles
 
 ---
@@ -23,13 +23,13 @@ I turn messy data into clear insights and production-ready tools. I enjoy buildi
 ## ⭐ Selected Projects
 > Click through for setup steps, notebooks, screenshots, and results.
 
-**Healthcare Data Analyst Project** – end‑to‑end analysis of hospital KPIs (readmissions, LOS, cost drivers) using SQL + Python; notebooks and SQL scripts included.  
+**Healthcare Data Analyst Project** –  End‑to‑End Analysis of hospital KPIs (readmissions, LOS, cost drivers) using SQL + Python; notebooks and SQL scripts included.  
 Repo: https://github.com/AkshayaRediee/healthcare-data-analyst-project
 
-**Anime Rating Prediction** – EDA + regression models (baseline & tree‑based) to forecast ratings; reproducible notebook and data sample.  
+**Anime Rating Prediction** –  EDA + regression models (baseline & tree‑based) to forecast ratings; reproducible notebook and data sample.  
 Repo: https://github.com/AkshayaRediee/Anime-Rating-Prediction
 
-**ASE (Flask Mini‑App)** – simple Flask app with routes, templates, and static assets; good example of a tiny analytics‑adjacent web tool.  
+**ASE (Flask Mini‑App)** –  Simple Flask app with routes, templates, and static assets; good example of a tiny analytics‑adjacent web tool.  
 Repo: https://github.com/AkshayaRediee/ASE
 
 ---
