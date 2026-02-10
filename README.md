@@ -43,7 +43,7 @@ Repo: https://github.com/AkshayaRediee/ASE
 ---
 
 ## 📫 Let’s connect
-- LinkedIn: https://www.linkedin.com/in/akshayacreddy  
+- LinkedIn: https://www.linkedin.com/in/ch-akshaya  
 - Email: akshayareddy0212@gmail.com
 
 ---
