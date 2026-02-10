@@ -23,6 +23,9 @@ I turn messy data into clear insights and production-ready tools. I enjoy buildi
 ## ⭐ Selected Projects
 > Click through for setup steps, notebooks, screenshots, and results.
 
+**E-commerce Cohort & Retention Analysis** - Building and Analyzing monthly Cohorts and plot retention Curves uncovering user behavior patterns to drive data-backed growth decisions using Databricks +PySpark + Spark SQL + Delta Tables + cohort Analysis + Retention Analysis and Data Visualization.
+Repo: https://github.com/AkshayaRediee/E-Commerce-Cohort-Retention-Analysis
+
 **Healthcare Data Analyst Project** –  End‑to‑End Analysis of hospital KPIs (readmissions, LOS, cost drivers) using SQL + Python; notebooks and SQL scripts included.  
 Repo: https://github.com/AkshayaRediee/healthcare-data-analyst-project
 
