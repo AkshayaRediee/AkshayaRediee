@@ -23,8 +23,7 @@ I turn messy data into clear insights and production-ready tools. I enjoy buildi
 ## ⭐ Selected Projects
 > Click through for setup steps, notebooks, screenshots, and results.
 
-**Healthcare operations analytics project** - Built in Databricks using a Bronze–Silver–Gold architecture on synthetic CSV datasets.  
-Developed client-level KPI scorecards and interactive dashboards tracking 4,007 members and 9,630 completed sessions.
+**Healthcare operations analytics project** - Designing Bronze–Silver–Gold data pipelines to track 4,007 active members and 9,630 completed sessions using Databricks + SQL + Delta Lake + Unity Catalog + Lakeview Dashboards + KPI Development + Client Scorecards + Operational Analytics.
 Repo: https://github.com/AkshayaRediee/HealthCare-KPI-Scorecard-and-Client-Performance-Reporting-System
 
 **E-commerce Cohort & Retention Analysis** - Building and Analyzing monthly Cohorts and plot retention Curves uncovering user behavior patterns to drive data-backed growth decisions using Databricks +PySpark + Spark SQL + Delta Tables + cohort Analysis + Retention Analysis and Data Visualization.                                     
