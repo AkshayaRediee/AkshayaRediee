@@ -23,13 +23,19 @@ I turn messy data into clear insights and production-ready tools. I enjoy buildi
 ## ⭐ Selected Projects
 > Click through for setup steps, notebooks, screenshots, and results.
 
-**Healthcare operations analytics project** - Designing Bronze–Silver–Gold data pipelines to track 4,007 active members and 9,630 completed sessions using Databricks + SQL + Delta Lake + Unity Catalog + Lakeview Dashboards + KPI Development + Client Scorecards + Operational Analytics.
+**Construction-Style-KPI-Pipeline-Executive-Reporting** - This Project delivers a full Bronze-Silver-Gold KPI Pipelines that model a $30M construction Portfolio using Databricks and Delta Lake. It produces standardized project controls metrics, risk classification, and an executive-ready dashboard for portfolio decision-making.
+Repo: https://github.com/AkshayaRediee/Construction-Style-KPI-Pipeline-Executive-Reporting
+
+**Healthcare KPI operations analytics project** - Designing Bronze–Silver–Gold data pipelines to track 4,007 active members and 9,630 completed sessions using Databricks + SQL + Delta Lake + Unity Catalog + Lakeview Dashboards + KPI Development + Client Scorecards + Operational Analytics.
 Repo: https://github.com/AkshayaRediee/HealthCare-KPI-Scorecard-and-Client-Performance-Reporting-System
 
 **E-commerce Cohort & Retention Analysis** - Building and Analyzing monthly Cohorts and plot retention Curves uncovering user behavior patterns to drive data-backed growth decisions using Databricks +PySpark + Spark SQL + Delta Tables + cohort Analysis + Retention Analysis and Data Visualization.                                     
 Repo: https://github.com/AkshayaRediee/E-Commerce-Cohort-Retention-Analysis
 
-**Healthcare Data Analyst Project** –  End‑to‑End Analysis of hospital KPIs (readmissions, LOS, cost drivers) using SQL + Python; notebooks and SQL scripts included.  
+**E-commerce Funnel Analysis** - This project builds an end-to-end E-commerce funnel analytics pipeline in Databricks, transforming raw clickstream events into sessionized journeys and conversion KPIs. It highlights drop-off pattern across the user lifecycle and delivers actionable insights through a structured architecture.
+Repo: https://github.com/AkshayaRediee/E-Commerce-Funnel-Analysis
+
+**Healthcare Data Analysis Project** –  End‑to‑End Analysis of hospital KPIs (readmissions, LOS, cost drivers) using SQL + Python; notebooks and SQL scripts included.  
 Repo: https://github.com/AkshayaRediee/healthcare-data-analyst-project
 
 **Anime Rating Prediction** –  EDA + regression models (baseline & tree‑based) to forecast ratings; reproducible notebook and data sample.  
