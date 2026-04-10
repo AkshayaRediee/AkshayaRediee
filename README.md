@@ -23,6 +23,9 @@ I turn messy data into clear insights and production-ready tools. I enjoy buildi
 ## ⭐ Selected Projects
 > Click through for setup steps, notebooks, screenshots, and results.
 
+**Construction Cost Variance Tracker** - This is a dynamic financial reporting model built entirely in Microsoft Excel. It takes a raw construction cost ledger hundreds of messy invoice line items and turns it into a clean, professional one-page executive summary that automatically updates every time you change a single dropdown. Think of it like a live dashboard for a construction project. The project director walks into a client meeting, picks the reporting month from a dropdown, and instantly sees exactly where every dollar has gone, which trade packages are over budget, and what the project is forecast to cost at completion.
+Repo - https://github.com/AkshayaRediee/Construction-Cost-Variance-Tracker-Excel_Project
+
 **Construction-Style-KPI-Pipeline-Executive-Reporting** - This Project delivers a full Bronze-Silver-Gold KPI Pipelines that model a $30M construction Portfolio using Databricks and Delta Lake. It produces standardized project controls metrics, risk classification, and an executive-ready dashboard for portfolio decision-making.
 Repo: https://github.com/AkshayaRediee/Construction-Style-KPI-Pipeline-Executive-Reporting
 
